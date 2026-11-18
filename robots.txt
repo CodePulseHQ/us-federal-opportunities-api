@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codepulsehq.github.io/us-federal-opportunities-api/sitemap.xml

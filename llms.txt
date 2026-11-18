@@ -1,0 +1,6 @@
+# US Federal Opportunities API
+
+> SAM.gov contract opportunities, Grants.gov grants and USAspending awards by keyword, NAICS, agency and set-aside. No API key.
+
+- [Apify Actor](https://apify.com/codepulsehq/us-federal-opportunities-api): $0.003 per contract or grant opportunity and $0.002 per award. Errors are free.
+- [Guides](https://codepulsehq.github.io/us-federal-opportunities-api/): How to get SAM.gov contract opportunities without an API key; How to get daily alerts for new federal contract opportunities; How to search Grants.gov opportunities through an API; How to find who won federal contracts using USAspending data; NAICS codes and federal set-aside codes explained

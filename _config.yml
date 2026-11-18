@@ -1,0 +1,20 @@
+title: "US Federal Opportunities API"
+tagline: "SAM.gov contract opportunities, Grants.gov grants and USAspending awards by keyword, NAICS, agency and set-aside. No API key."
+description: "Find SAM.gov contract opportunities, Grants.gov grants and USAspending awards by keyword, NAICS and set-aside, with no API key. Guides for daily alerts and competitor research."
+url: https://codepulsehq.github.io
+baseurl: /us-federal-opportunities-api
+lang: en
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collection: false
+exclude:
+  - README.md
+  - LICENSE
+  - examples
+header_pages: []
+show_excerpts: false

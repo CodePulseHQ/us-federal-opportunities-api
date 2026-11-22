@@ -4,6 +4,8 @@ Find US government work before your competitors do: contract opportunities from 
 
 This repository contains runnable examples and how-to guides for the **[US Federal Opportunities API on Apify](https://apify.com/codepulsehq/us-federal-opportunities-api)**, made by [CodePulse](https://codepulsehq.com). The examples call that hosted Actor, so you need a free [Apify](https://apify.com) account and API token. The code here is MIT licensed; the Actor is a paid, hosted service. $0.003 per contract or grant opportunity and $0.002 per award. Errors are free.
 
+**Try it free:** Apify's free plan includes $5 of monthly credit, so you can run the Actor on real data before paying anything. [Start here](https://apify.com/codepulsehq/us-federal-opportunities-api).
+
 **Read the guides as a website:** [codepulsehq.github.io/us-federal-opportunities-api](https://codepulsehq.github.io/us-federal-opportunities-api/)
 
 ## Quick start
